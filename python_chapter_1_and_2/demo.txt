@@ -1,0 +1,4 @@
+hii everyone
+we are learning file input/output
+i like java
+i love coding in java
